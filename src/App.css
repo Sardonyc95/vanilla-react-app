@@ -1,0 +1,65 @@
+.App{
+  color: #000000;
+  font-family: monospace;
+}
+.App h1{
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 700;
+  color: #302f2f;
+  opacity: 0.5;
+  font-family: monospace;
+  margin-bottom: 0;
+}
+.App ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.App ul li{
+  font-size: 15px;
+  font-weight: 300;
+  font-family: monospace;
+  color: #302f2f;
+  opacity: 0.5;
+  margin-top: 0;
+}
+.App span{
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  top: -30px;
+  color: #302f2f;
+  opacity: 0.5;
+}
+
+.App .containerWrapper{
+  border: 1px solid #ced4da;
+  max-width: 600px;
+  margin: 60px auto 0 auto;
+  padding: 20px;
+}
+.App .weatherDetails{
+  margin-bottom: 20px;
+}
+.App .weatherTempWrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.App .weatherTempWrapper .weatherIconTemp{
+  display: flex;
+  flex-direction: row;
+}
+.App .weatherTempWrapper .weatherIconTemp img{
+  width: 100px;
+  height: auto;
+}
+.App .weatherIconTemp .temperature{
+  padding-top: 20px;
+}
+.App .weatherTempWrapper .temperature strong{
+  font-size: 55px;
+  line-height: 75px;
+  font-weight: 300;
+  margin-left: 10px;
+}
