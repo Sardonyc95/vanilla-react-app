@@ -32,6 +32,10 @@ function App() {
           </div>
         </div>
       </div>
+      <p>
+      vanilla react app project done by AVA. 
+      <a href="https://github.com/Sardonyc95/vanilla-react-app" target='_blank'>Open source</a> on Github
+      </p>
     </div>
   );
 }
