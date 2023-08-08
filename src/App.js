@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Search from './Search'
 
@@ -34,7 +33,7 @@ function App() {
       </div>
       <p>
       vanilla react app project done by AVA. 
-      <a href="https://github.com/Sardonyc95/vanilla-react-app" target='_blank'>Open source</a> on Github
+      <a href="https://github.com/Sardonyc95/vanilla-react-app" rel="noreferrer" target='_blank'>Open source</a> on Github
       </p>
     </div>
   );
