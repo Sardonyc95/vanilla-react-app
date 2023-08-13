@@ -11,3 +11,13 @@
 - Most importantly creating a react app using the command line.
 
 - Still on the project to build a functional interface and user friendly weather app using react.js...
+
+## vanilla-react-app Forecast Overview/Planning steps
+
++ Build daily weather forecast
+
++ Build the layout + styling of the forecast
+
++ Find the API and make the API for the forecast
+
++ Integrate the API with the user interface
