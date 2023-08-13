@@ -1,5 +1,6 @@
 # vanilla-react-app
 
+Static Webpage:
 - The above static weather app project helped me understood how the react.js framework can be used.
 
 - I learnt the difference between HTML and Jsx.
@@ -12,12 +13,6 @@
 
 - Still on the project to build a functional interface and user friendly weather app using react.js...
 
-## vanilla-react-app Forecast Overview/Planning steps
-
-+ Build daily weather forecast
-
-+ Build the layout + styling of the forecast
-
-+ Find the API and make the API for the forecast
-
-+ Integrate the API with the user interface
+Integration of bootstrap:
+- using bootstrap to make the static webpage more responsive
+- restructuring of the webpage using HTML/JSX with bootstrap css. 
