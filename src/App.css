@@ -1,4 +1,22 @@
 .App{
-  margin: 0 auto;
+  margin: 30px auto;
   max-width: 600px;
+  color: #70757a;
+  font-family: arial sans-serif;
+}
+
+.App footer{
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+}
+.App a{
+  text-decoration: none;
+}
+
+.App a :hover{
+  transition: all 200ms ease;
+  opacity: 1;
+  color: blueviolet;
 }
