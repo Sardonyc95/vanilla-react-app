@@ -14,6 +14,9 @@
 - Still on the project to build a functional interface and user friendly weather app using react.js...
 
 ## Responsive/Real-Life application Webpage
+- The vanilla react app is now functional and uses real life data.
+- The statements below will help you understand the functionality better.
+
 ### Integration of Bootstrap
 - using bootstrap to make the static webpage more responsive
 - restructuring of the webpage using HTML/JSX with bootstrap css. 
