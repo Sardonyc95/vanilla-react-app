@@ -9,7 +9,7 @@ export default function App() {
         <footer>
           This project is coded by <a href='https://fascinating-chimera-f34764.netlify.app/' rel='noreferrer' target='_blank'>Amavic</a> and is{" "}
           <a href="https://github.com/Sardonyc95/SheCodes.io" rel="noreferrer" target="_blank">
-            Open source on GitHub
+            Open source on GitHub and <a href='https://fascinating-chimera-f34764.netlify.app/' rel="noreferrer" target="_blank">hosted on Netlify</a>
           </a>
         </footer>
       </div>
