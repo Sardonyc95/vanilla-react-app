@@ -1,0 +1,6 @@
+.ForecastDaily img{
+    width: 50px;
+}
+.ForecastDaily .weatherForecast-temperature-max{
+    font-weight: bold;
+}
