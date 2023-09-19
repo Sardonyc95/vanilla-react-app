@@ -1,11 +1,11 @@
 import FormatedDate from './FormatedDate';
 import WeatherTemperature from './WeatherTemperature';
+import './WeatherInfo.css';
 
 export default function WeatherInfo(props){
     return (
         <div className='WeatherInfo'>
-            <h1>{props.data.currentCity}</h1>
-            <h2>{props.data.country}</h2>
+            <h1>{props.data.currentCity},{" "}{props.data.country}</h1>
             <ul>
                 <li>
                     <FormatedDate date={props.data.date} />
